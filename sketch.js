@@ -37,7 +37,7 @@ function draw() {
      rat.addAnimation("rat3",ratImg3);
      rat.changeAnimation("rat3");
     }
-    rat.setCollider("circle",0,0,0.2)
+     rat.setCollider("circle",0,0,0.2)
     drawSprites();
     
 }
